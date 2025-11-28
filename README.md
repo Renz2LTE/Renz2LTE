@@ -25,7 +25,7 @@ Talaping Talapong Talap Talap.
 
 ## 🤝 Contact & Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_PROFILE)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lorenz.jo.51)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE)
 [![Viber](https://img.shields.io/badge/Viber-59267C?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=YOUR_NUMBER)
@@ -43,7 +43,8 @@ Talaping Talapong Talap Talap.
 
 - Developing Roblox systems (UI, Data, Ranking, Gameplay logic)
 - Web development projects
-- Shop Plugin (iiLemon SMP)
+- PocketMine Plugins – Created and customized plugins for server management and gameplay features.
+- Endstone & LeviLamina Mods – Developed mods for SMP servers, enhancing player experience and adding new functionalities.
 
 ---
 
