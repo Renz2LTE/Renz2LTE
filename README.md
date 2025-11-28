@@ -1,14 +1,14 @@
-# Renz | ICT Student & Aspiring Developer
+# Renz | 
 
 <p align="center">
-  <b>Clean. Practical. Always improving.</b>
+  <b>I Like Oreo Mcflurry</b>
 </p>
 
 ---
 
 ## 👨‍💻 Profile
 
-ICT student with a strong interest in software development, web technologies, and game systems. I focus on building functional, well-structured projects while continuously improving my problem-solving and coding skills.
+Talaping Talapong Talap Talap.
 
 ---
 
@@ -21,6 +21,15 @@ ICT student with a strong interest in software development, web technologies, an
 ![Java](https://img.shields.io/badge/Java-Professional?style=for-the-badge&logo=openjdk&logoColor=white&color=ED8B00)
 ![Python](https://img.shields.io/badge/Python-Professional?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-Professional?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## 🤝 Contact & Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_PROFILE)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE)
+[![Viber](https://img.shields.io/badge/Viber-59267C?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=YOUR_NUMBER)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 
 ### Tools & Platforms
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-Tool?style=for-the-badge&logo=roblox&logoColor=white&color=000000)
@@ -30,18 +39,11 @@ ICT student with a strong interest in software development, web technologies, an
 
 ---
 
-## 📌 Current Focus
+## 📌 Projects
 
 - Developing Roblox systems (UI, Data, Ranking, Gameplay logic)
 - Web development projects
-- Research: *Exploring the Impact of Java Language in Improving the Problem-solving Skills of ICT Students*
-
----
-
-## 📊 GitHub Performance
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+- Shop Plugin (iiLemon SMP)
 
 ---
 
@@ -55,14 +57,3 @@ ICT student with a strong interest in software development, web technologies, an
 > Precision, progress, and passion for learning.
 
 ---
-
-### Setup Guide
-1. Create a repository with the same name as your GitHub username.
-2. Paste this as your `README.md`.
-3. Replace `YOUR_USERNAME` with your actual GitHub username.
-
-If you'd like, I can also create versions that are:
-- 💼 Ultra Professional (corporate style)
-- 🎮 Dev-Gamer Hybrid
-- ⚡ Modern Minimal
-
